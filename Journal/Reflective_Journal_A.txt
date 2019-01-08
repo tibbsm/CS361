@@ -3,3 +3,14 @@
 ### Monday, January 7, 2019
 I just opened Canvas for the first time this year and checked out the info that has been released for the 2 courses that I'll be taking this term: CS344 OS & CS361 Software Development. I am excited to get back into the swing of things and take both these courses this term as I took the last term off so that I could focus on my work at my internship. I am now at my second internship and while I have been learning a lot on the job, there are many times when I do not know what is being talked about because I haven't taken certain classes. Specifically, there's usually talk about architectures that I have heard of, but know nothing about. It will be nice to finally fill in those gaps in my knowledge and get on the same page with people at my work. I suppose I am a little worried about taking 2 classes and taking the internship, but I am sure that I'll be able to handle the work.  
 
+### Tuesday, January 8, 2019
+
+Video L0-Overview:
+
+I just watched the first lecture for this class: L0-Overview. It went over the basics for the course. It started out by explaining that software engineering is not just about the design process. In fact, the software development cycle has many steps including, developing requirements, designing solutions, implementation of the project, and testing. 
+
+The question, why are projects over budget so often? And, how do you properly estimate the needs of a project before commiting to it and starting on it. For the first question, I think that under estimation of a project's budget happens for many different reasons. For example, any project has to pass under the scrutiny of the hierarchy of a business and many project leads may underestimate the projec's budget in order to get past the politics inherit in any company. Another reason a project's budget may be underestimated are the unknown issues that crop up in any venture in life. Many projects have known unknowns, which are risk that you are aware of and can be mitigated by planning. However, there are also unknown unknowns which are risks that come from situations that are unexpects and as a result cannot be planned for, atleast directly. 
+
+Software engineering has to deal with these types of problems of estimation and planning. We are given a definition of software engineering as "the application of a systematic, disciplined, **quantifiable**, approach to the development, operation, and maitenance of software." The word quantifable is key here. In order to continually develop better software, we need to be able to measure the software's strengths, weaknesses, threats, and opportunuties. Quantifiable elements of a software project include the technology's complexity, organizational skills available, available funding and workforce, the project schedule, the stakeholder's interest and assistance, laws and regulations, etc.
+
+
