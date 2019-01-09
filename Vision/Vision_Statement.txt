@@ -4,10 +4,22 @@ Draft Vision Statement
 
 # Introduction
 
+Tired of completing courses and not having any projects to show for it? Me too! In the world of CS we constantly see the emphasis that people put on open source projects, however, as a beginner you often don't know where to start or how to contribute. I plan on building a platform that connects students from online classes together with other students from their courses so that they can work on projects together. Not only will students get to work with other students from the current rendition of the course, but students will also be able to pass down their projects to future and also work on projects that were started in previous iterations of the course. This project will connect students together with mentors and mentees and help them solidify the information that they are learning in their courses and also give them something to show employers during interviews. 
+
 # Description of Problem
+
+Often there is no enough time during a course to see a project through it's completion during the duration of the course. On top of the coursework studetns often have obligations to many other things in their lives. However, in order to solidify and show the knowledge of the information that they learn in their courses they often need projects which they can list on their portfolios. While there is the occasional hackathon or class project that students can list on their resumes, it again is not enough time to complete a project in such a short amount of time. 
 
 # Description of Solution
 
+I propose a online service that will connect students who are taking courses with one another and their projects. This way students can contribute to open source projects. This collaboration will help solidify what they are learning in their classes, create new relationships with their peers, and allow past students to help new students, and allow current students the foresight that what they are learning is worthwhile and something that they can pass down to future generations of students. 
+
 # Description of Metrics for Success
 
+- Total number of contributions to project
+- Number of unique contributions from different students
+- Amount of discussion going on in chatrooms and forums
+
 # Conclusion 
+
+Students are in the perfect situation to collaborate and learn from one another during their classes. There is currently a huge waste of resources as hundreds of students go through the course material term after term and all of them end up having little to show for it except for a few projects that inevitably look like class projects. This platform looks to connect students and empower them to use the knowledge they are learning in class to real-world problems that they face each day. 
