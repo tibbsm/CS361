@@ -1,0 +1,13 @@
+Marc Tibbs
+CS 361 - Winter 2019
+Draft Vision Statement
+
+# Introduction
+
+# Description of Problem
+
+# Description of Solution
+
+# Description of Metrics for Success
+
+# Conclusion 
