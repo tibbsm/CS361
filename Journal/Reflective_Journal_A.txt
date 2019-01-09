@@ -34,3 +34,35 @@ What is the difference between good software and great software?
 
 Great software contains the right features for the right data. You cannot build a great system until you understand what it should do.
 - Use cases (the activities a system supports), entities (the kinds of objects that are involved in use cases), attributes (properties of the entities).
+
+Software engineering is a team effort and requires a lot of different skillsets. You will need analysts, designers, programmers, testers, and trainers. 
+
+Course objectives: process, requirements, documents, notations, design, validate, cost & schedule and team.
+
+### L2-Software engineering process
+
+Quality Attributes of great software:
+Reliability: Consistency, Accuracy, Error to tolerate,
+Efficeincy: Execution efficiency, storage efficiency
+Integrity: Access control, Access audit
+Usability: Operability, training, and communicativeness...
+
+A process is a well-defined and usually involves a set of tools and techinques
+- Uses resources, is subject to constraints and produces intermediate and final products
+- may be composed of sub-processes
+- has entry and exit  criteria
+
+Life-cycle: the process of building and maintaing the product. 
+
+Typical software task:
+- figuring out what the system should do - requirements
+- figuring out how the system should do it - design
+- writing the code - implementation
+- using the using - operation
+
+Types of processes:
+Waterfall -
+Spiral - 
+Agile - 
+
+
