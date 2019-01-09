@@ -13,4 +13,24 @@ The question, why are projects over budget so often? And, how do you properly es
 
 Software engineering has to deal with these types of problems of estimation and planning. We are given a definition of software engineering as "the application of a systematic, disciplined, **quantifiable**, approach to the development, operation, and maitenance of software." The word quantifable is key here. In order to continually develop better software, we need to be able to measure the software's strengths, weaknesses, threats, and opportunuties. Quantifiable elements of a software project include the technology's complexity, organizational skills available, available funding and workforce, the project schedule, the stakeholder's interest and assistance, laws and regulations, etc.
 
+### Wednesday, January 9, 2019
 
+Video L1-Overview
+
+I just watched the second lecture video for this week, L1-Overview. This lecture starts out with emphasizing that software is not just about computers. We use computers as tools to solve problems. For example, a microloan website to help people start businesses. 
+
+Another example of a problem is natural disasters. Software can help in this case by locating victims, aid in the distribution of resources, and helping emergency supporters help victims. 
+
+Some other problems software is able to alleviate are pollution, repression, disesase/medicine, etc.
+
+Software engineering is basically problem solving, without making the world worse and without incurring excessive costs. Software engineering solves these problems by creating software.
+
+Thinking about software is not enough. You also need to think about the people that will be using the software and the context that it will be used in. 
+
+A system boundary is the software being developed. People intereact with the system boundary. Is defined by the engineer/designer. 
+
+What is the difference between good software and great software?
+- Reliability, efficiency, integrity, usability, maintainability, testability, flexibility, portability, reusability, interoperability.
+
+Great software contains the right features for the right data. You cannot build a great system until you understand what it should do.
+- Use cases (the activities a system supports), entities (the kinds of objects that are involved in use cases), attributes (properties of the entities).
