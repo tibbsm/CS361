@@ -65,4 +65,9 @@ Waterfall -
 Spiral - 
 Agile - 
 
+### Thursday, January 10, 2019
 
+Key Questions 1.1
+Why are the elementcs of the SDLC so important for large software systems? Look up Microsoft's Secure Development Lifecycle for clues. 
+
+The SDLC is important to any software system, but is even more important for large systems because it sets out a process for the to be designed, implemented and designed in a way that they are continually and iteratively able to be improved upon. By their very nature large systems are complex. Their sheer size often makes them hard to understand after a quick glance. Th SDLC allows developers to create a system in a set convention that allows other developers to later come in to the project and more easily understand the nature of the project knowing that it originally followed SDLC principles. 
