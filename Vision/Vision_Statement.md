@@ -29,6 +29,8 @@ Students are in the perfect situation to collaborate and learn from one another 
 
 ### NOTES
 
+- Students are have around the same level of knowledge. A good open source project is one that matches your existing skills and the skills that you want to build.
+- Students also tend to be using the same resources that could be updated or improved. Students complain about the same thing, why not get together and fix it?
 - As with Facebook, where "[m]embership was initially restricted to students of Harvard University", ...
 
 > The easiest way to get into open source is to start your own projects. 
