@@ -46,4 +46,5 @@ There's definitely an argument for contributing to open source projects, but I'd
 > One last option would be Google's Summer of Code. It's too late to join in for this year, but it may be worth it next year if you're serious about contributing to a big-name project. The acceptance rate isn't great (I applied three times and didn't get in once, but this was years ago), but given your niche interests you might be a perfect candidate for a handful of projects.
 > EnderMB - [Ask HN: Recommended Open Source Projects for a CS Junior?](https://news.ycombinator.com/item?id=17400582)
 
-
+> Probably not the answer you were looking for, but one of the best ways is to simply just _make_ something of your own. At the very least it's good practice, and you just might make something people find useful if you've found an 'unscratched itch'.
+> petersjt014 - [Ask HN: Recommended Open Source Projects for a CS Junior?](https://news.ycombinator.com/item?id=17400582)
