@@ -29,11 +29,21 @@ Students are in the perfect situation to collaborate and learn from one another 
 
 ### NOTES
 
+- As with Facebook, where "[m]embership was initially restricted to students of Harvard University", ...
+
 > The easiest way to get into open source is to start your own projects. 
 >
 > Alternatively, you can find a project with a single maintainer and few or no third party patches & fix a serious issue (or add a useful feature). If your patch is accepted, then you've made a social connection with another developer (and maybe even a friend); if your patch isn't accepted, you can maintain your own fork & somebody might contribute to yours.
 >
 > Contributing to someone else's project (particularly, large and complex projects) involves integrating into existing social structures, which often is difficult and underdocumented (particularly when the primary goal of the project is to just get the development work done -- such projects often don't go out of their way to make it easy for newbies to contribute, since newbie contributions are liable to be of lower quality). Some projects make a real effort, but that's unusual. Even then, large projects (because they have communities) are full of complex politics that are borderline incomprehensible from outside, and navigating these politics takes a lot of time that could otherwise be used for meaningful contributions to smaller projects.
 > - enkiv2 - [Ask HN: How to start contributing to open source projects?](https://news.ycombinator.com/item?id=18325859)
+
+> This may be an unpopular opinion, but I've never understood why so many people recommend contributing to open-source projects if you are a CS student or beginner. It's a fantastic way to feel inadequate in your ability to write code. If you pick a large open-source project your skills may not be up to scratch to help out in any meaningful way. Even with smaller tasks, a lot of larger projects have enough structure in place to ensure that trusted developers are working on key parts of the project, so it's likely that getting involved will take a lot of effort.
+There's definitely an argument for contributing to open source projects, but I'd recommend finding small utilities over big-name projects. These have their own dangers with contributors often abandoning projects, or ignoring issues/pr's, but it's a much easier way to get involved and get some open-source contribution cred on your CV/resume.
+>
+> As others have said, the best approach would be to create your own project, and should things go well there maybe look into seeing if there are any now-defunct projects you like the look of that would consider handing the reins over to you to maintain.
+>
+> One last option would be Google's Summer of Code. It's too late to join in for this year, but it may be worth it next year if you're serious about contributing to a big-name project. The acceptance rate isn't great (I applied three times and didn't get in once, but this was years ago), but given your niche interests you might be a perfect candidate for a handful of projects.
+> EnderMB - [Ask HN: Recommended Open Source Projects for a CS Junior?](https://news.ycombinator.com/item?id=17400582)
 
 
