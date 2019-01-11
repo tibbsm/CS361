@@ -29,10 +29,11 @@ Students are in the perfect situation to collaborate and learn from one another 
 
 ### NOTES
 
-> The easiest way to get into open source is to start your own projects.
-> Alternatively, you can find a project with a single maintainer and few or no third party patches & fix a serious issue (or add a useful feature). If your patch is accepted, then you've made a social connection with another developer (and maybe even a friend); if your patch isn't accepted, you can maintain your own fork & somebody might contribute to yours.
+> The easiest way to get into open source is to start your own projects. 
 
->Contributing to someone else's project (particularly, large and complex projects) involves integrating into existing social structures, which often is difficult and underdocumented (particularly when the primary goal of the project is to just get the development work done -- such projects often don't go out of their way to make it easy for newbies to contribute, since newbie contributions are liable to be of lower quality). Some projects make a real effort, but that's unusual. Even then, large projects (because they have communities) are full of complex politics that are borderline incomprehensible from outside, and navigating these politics takes a lot of time that could otherwise be used for meaningful contributions to smaller projects.
+Alternatively, you can find a project with a single maintainer and few or no third party patches & fix a serious issue (or add a useful feature). If your patch is accepted, then you've made a social connection with another developer (and maybe even a friend); if your patch isn't accepted, you can maintain your own fork & somebody might contribute to yours.
 
+Contributing to someone else's project (particularly, large and complex projects) involves integrating into existing social structures, which often is difficult and underdocumented (particularly when the primary goal of the project is to just get the development work done -- such projects often don't go out of their way to make it easy for newbies to contribute, since newbie contributions are liable to be of lower quality). Some projects make a real effort, but that's unusual. Even then, large projects (because they have communities) are full of complex politics that are borderline incomprehensible from outside, and navigating these politics takes a lot of time that could otherwise be used for meaningful contributions to smaller projects.
+- enkiv2 - [Ask HN: How to start contributing to open source projects?](https://news.ycombinator.com/item?id=18325859)
 
 
