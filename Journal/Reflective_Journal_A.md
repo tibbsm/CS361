@@ -48,17 +48,17 @@ Integrity: Access control, Access audit
 Usability: Operability, training, and communicativeness...
 
 A process is a well-defined and usually involves a set of tools and techinques
-- Uses resources, is subject to constraints and produces intermediate and final products
-- may be composed of sub-processes
-- has entry and exit  criteria
+* Uses resources, is subject to constraints and produces intermediate and final products
+* may be composed of sub-processes
+* has entry and exit  criteria
 
 Life-cycle: the process of building and maintaing the product. 
 
 Typical software task:
-- figuring out what the system should do - requirements
-- figuring out how the system should do it - design
-- writing the code - implementation
-- using the using - operation
+* figuring out what the system should do - requirements
+* figuring out how the system should do it - design
+* writing the code - implementation
+* using the using - operation
 
 Types of processes:
 Waterfall -
@@ -72,9 +72,13 @@ Why are the elementcs of the SDLC so important for large software systems? Look 
 
 The SDLC is important to any software system, but is even more important for large systems because it sets out a process for the to be designed, implemented and designed in a way that they are continually and iteratively able to be improved upon. By their very nature large systems are complex. Their sheer size often makes them hard to understand after a quick glance. Th SDLC allows developers to create a system in a set convention that allows other developers to later come in to the project and more easily understand the nature of the project knowing that it originally followed SDLC principles.
 
+
+### Friday, January 10, 2019
 1.2 SDLC sounds like a lot of writing. Why is that important?
-- Communication
+
+SDLC involves a lot of writing for a variety of different reasons. One reason for it is to allow the designers, developers, and architects a well-defined view of their design and implementation processes.This type of record is important not only to the specific project that a team is working on together, but also helpful for their development system for all project that they will ever work on. With a written record of their thought processes, they can go back to see why they decided to design software in a certain way. Or, perhaps they missed something in their first design. This brings up another reason of why SDLC involves a lot of writing. 
 
 1.3 SDLC sounds more like project management than software development. Agree or disagree? Why?
-- Agree. Project management principles are part of software development process. 
+* Agree. Project management principles are part of software development process. 
+
 1.4 Computers have become ubiquitous in our lives and societies. Many tragedies have occurred because of computer malfunctions. How could software engineering have helped? Or not? HINT: look up the comp.risks archives for 30 years of malfunctions.  
