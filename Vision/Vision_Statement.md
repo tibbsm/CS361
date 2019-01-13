@@ -4,16 +4,26 @@ Draft Vision Statement
 
 
 # Abstract
-OpenCourse creates an environment the focuses on project development outside of courses offering students access contribute to projects started by past students of courses, collaborate with other current student on new projects based on what they are learning in a class, and a way for students to enhance future students understanding of course concepts by passing forward their own projects and takeaways from a course. 
+OpenCourse is a platform which creates an environment for students to develop open source projects with their fellow students. OpenCourse offers students access contribute to projects started by past students of courses, collaborate with current students on new projects based on what they are learning in a class, and the ability to pass on their projects to future students who can then add further improvements to the open source project.
 
 # Introduction
-Are you tired of completing courses and not having any projects to show for it? Me too! In the world of CS we constantly see the emphasis that many employers we put on open source projects, however, as a beginner you often don't know where to start or how to contributing to projects. OpenCourse will be a platform that connects students from online classes together with previous, current, and future students of courses they are enrolled in so that they can work on projects together. Not only will students get to work with other students from the current rendition of the course, but students will also be able to pass down their projects to future students and also work on projects that were started in previous iterations of the course. This project will connect students together with mentors and mentees and help them solidify the information that they are learning in their courses and also give them something to show employers during interviews.
+In the tech world many employers put a strong emphasis on candidates who have experience contributing to open source projects. Having open source projects to show potential employers is a great way to get your foot in the door. However, as a student you often don't know where to start or how to contributing to projects. In fact, contributing to someone else's project involves integrating into existing social structures, which is difficult and often underdocumented. Some projects make the effort, but they are rare. Even so, large projects are full of complex politics that are borderline incomprehensible from the outside, and navigateing these politics takes a lot of time that could otherwise be used for meaningful contributions to smaller projects. OpenCourse plans to fill this need for students by giving students a place to interact, share ideas and build softwareprojects together. In doing so, OpenCourse will build a strong community of students dedicated to project-based learning principles. This project will connect students together and allow them to learn from and in turn teach other students. These interactions with other students and contributions to projects will help them solidify the information that they are learning in their courses and also give them something to show employers during interviews.
 
 # Description of Problem
+
+## Not enough time in one term course for larger projects - especially with other time commitments
 Often there is not enough time during a course to polish and fine tune a project. In addition there may be requirements for a class project, which help illustrate that a student has understood how to implement some feature, which may not be needed in a real-world situation. Additionally, on top of the coursework students often have obligations to many other things in their lives, which hampers them from taking on larger projects in such a short time. However, in order to solidify and show the knowledge of the information that they learn in their courses they often need projects which they can list on their portfolios. While there is the occasional hackathon or class project that students can list on their resumes, there is not enough time to complete a project in such a short amount of time, even with the help of some other team members.
 
 # Description of Solution
+
 My proposed solution is a online service that will connect students who are taking courses with one another and allow them to work on projects together. Using this platform students can contribute to open source projects with their classmates and make lasting relationships with other developers. This collaboration will help solidify what they are learning in their classes, create new relationships with their peers, and allow past students to help new students, and give current students the incentive to put the knowledge they are learning to immediate use and can pass down to future generations of students.
+## List of OS Student Projects
+
+## Class Notes
+
+## Class Concepts Explainations and Examples
+
+## Helpful Websites and Resources
 
 # Description of Metrics for Success
 Here are some metrics that can be used to measure the success of this project:
@@ -55,3 +65,5 @@ There's definitely an argument for contributing to open source projects, but I'd
 
 > In my experience, the trick is finding the sweet spot between something you use every day and your abilities.
 > Seanny123 - [Ask HN: Recommended Open Source Projects for a CS Junior?](https://news.ycombinator.com/item?id=17400582)
+
+> [Kids taking notes collaboratively](https://twitter.com/mckellogs/status/811339472205910016?lang=en) 
