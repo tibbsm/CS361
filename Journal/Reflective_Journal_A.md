@@ -82,9 +82,15 @@ SDLC involves a lot of writing for a variety of different reasons. One reason fo
 
 I just submitted the first draft for my vision statement and am a little unsure about the topic I picked. I chose to create my project around creating a platform for students to talk to one another and contribute to each other's open source projects. I'm not too sure about it though. It doesn't seem like there will be enough to build up a term-long project around. I picked the topic because it seemed interesting. But seeing that the final word count for the final vision statement need to be around 20,000 words, I'm not sure I can write that much. Doing reasearch on the topic didn't show too many articles or information for me to research. So I hope I am able to find more information about it. I'll give it a fresh look tomorrow and see what I can do.
 
-
+### Tuesday, January 14, 2019
 
 1.3 SDLC sounds more like project management than software development. Agree or disagree? Why?
-* Agree. Project management principles are part of software development process. 
+* I agree with this statement. Project management principles are part of software development process. In fact, project management principles are needed in almost any type of developmental environment. Project management principles ensure that a developmental plan is well-structured and designed to succeed. It would be a mistake to think that project management and software development can be separated. You many be able to get away without any PM principles in small, short-term projects, but for anything larger and with a longer duration, you are better off sticking to Project Management principles. 
 
 1.4 Computers have become ubiquitous in our lives and societies. Many tragedies have occurred because of computer malfunctions. How could software engineering have helped? Or not? HINT: look up the comp.risks archives for 30 years of malfunctions.  
+
+2.1  What options do you see for coordinating activities among hundreds of people?
+
+2.2  How do you record and distribute decisions made across the organization?  
+
+2.3 You know you're good.  Still, why might you still need to prepare marketing documents to generate interest in your work?  
