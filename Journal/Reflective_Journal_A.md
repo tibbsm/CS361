@@ -87,7 +87,12 @@ I just submitted the first draft for my vision statement and am a little unsure 
 1.3 SDLC sounds more like project management than software development. Agree or disagree? Why?
 * I agree with this statement. Project management principles are part of software development process. In fact, project management principles are needed in almost any type of developmental environment. Project management principles ensure that a developmental plan is well-structured and designed to succeed. It would be a mistake to think that project management and software development can be separated. You many be able to get away without any PM principles in small, short-term projects, but for anything larger and with a longer duration, you are better off sticking to Project Management principles. 
 
+### Wednesday, January 15, 2019
+
 1.4 Computers have become ubiquitous in our lives and societies. Many tragedies have occurred because of computer malfunctions. How could software engineering have helped? Or not? HINT: look up the comp.risks archives for 30 years of malfunctions.  
+* In part I think that, as with any technology, the improvements that come with computer necessarily come a number of downfalls with them. With that said there is always room for improvements no matter how small they are. Of course, better adherence to software engineering standards could have mitigated some of these problems and I think that is where we should focus our attention to. Of course, nowadays more people are placing a larger emphasis on the security aspects of software and that is something that was largely overlooked in the past, as it simply did not have an impact back in the day. It usually takes something bad to happen for there to be changes. So, we have seen many security breaches and other hacks, or other catastrophes caused by the failures of our machines, but that has woken many people up and made them want to patch these glaring holes that were overlooked in the past. I think we are all headed in the right direction, but we are necessarily going to face many more malfuntions before we can fix anything. 
+
+### Thursday, January 16, 2019
 
 2.1  What options do you see for coordinating activities among hundreds of people?
 
