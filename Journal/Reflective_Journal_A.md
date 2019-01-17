@@ -94,6 +94,75 @@ I just submitted the first draft for my vision statement and am a little unsure 
 
 ### Thursday, January 16, 2019
 
+**Lecture 3.1 - Requirements Overview**
+
+### Requirements
+* Requirements state the purpose of the system
+  * Requirement: Expression of desired behavior
+* Very helpful for
+  * Communicating with customers and co-workers
+  * Keeping track of everything that needs to get done
+  * Helping you and the customer decide what really needs to get done, anyway
+  * Customers often don't know what they really need.
+
+### Requirement Analysis
+* Ways to figure out what the system should do:
+  * Get the customer to write down what they want
+  * Talk with customers and make some diagrams
+  * Watch users in "daily life" to see what they need
+  * Look up requirements from a standards body
+  * Gather with customer & users to disucss, argue, and negotiate
+
+### Good requirements are...
+* Correct - they have to say the right things
+* Consistent - they can't contradict each other
+* Unambiguos - Each must have 1 interpretation
+* Complete - They cover all the important stuff
+* Relevant - Each must meet a customer need
+* Testable - There must be a way to tell if they are satisfied
+* Traceable - There must be a way to determine their origin
+
+### Typical parts of requirements documentation
+* Functional requirements
+  * Unstructured text
+  * Use cases
+* Non-functional (quality) requirements
+  * Unstructured text
+* Diagrams
+  * Class diagrams and entity-relationships
+  * Dataflow, sequence and state diagrams
+
+### Funcational Requirements
+* Can be written as unstructured text
+  * Can be written from external or system viewpoint
+* Can be written as structured use cases
+
+### External vs System Viewpoint
+* External - A requirements definition is stated from the viewpoint of somebady outside the system:
+  * System is a blackbox with some interface
+  * Emphasis on role of the system
+  * e.g. The sprinkler never runs on rainy days
+
+* System - A requirements definition is stated from the viewpoint of somebody inside the system:
+  * The environment is accessed via inputs & outputs
+  * The emphasis is on how the system works
+  * e.g. The controller will not engage the water pump any time the ambient water sensor is triggered
+
+### What's in a (basic) use case?
+  * Use case name: succint and meaningful
+  * Actor: who "does" the activity?
+  * Preconditions: what is true before the activity?
+  * Postconditions: What is true after
+  * Flow of events: What steps do the actor and the system perform during the scenario?
+
+### Overview of Diagrams
+* Use case diagram - show supported activities
+* UML class & entity-relationship diagrams - show entities, attributes, relationships
+* Dataflow - shows flow of information
+* Message Sequance Diagram - show flow of control
+* State Chart - shows change over time
+
+
 2.1  What options do you see for coordinating activities among hundreds of people?
 
 2.2  How do you record and distribute decisions made across the organization?  
