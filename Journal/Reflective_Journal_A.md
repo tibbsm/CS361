@@ -108,6 +108,11 @@ Some important diagrams are class diagrams, entity-relationship diagrams, datafl
 
 ### Saturday, January 18, 2019
 
+**Lecture 3.3 - Example Requirements**
+
+I really enjoyed watching today's lecture as it really solidified some of the concepts that I've been hearing about the past couple of weeks. It's always nice to see actual examples of what is talked about in the lectures and required for our homework. After, seeing this lecture I feel ready to tackle HW1. 
+
+### Sunday, January 19, 2019
 
 2.1  What options do you see for coordinating activities among hundreds of people?
 
