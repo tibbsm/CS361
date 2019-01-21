@@ -114,6 +114,15 @@ I really enjoyed watching today's lecture as it really solidified some of the co
 
 ### Sunday, January 19, 2019
 
+Today, I worked on HW1. I wrote out one of the use cases for our applcation. More specifically, I wrote a use case for 'Creating a New Trip' using our mobile/web app for planning trips. I haven't seen any other use cases other than the one that was in lecture 3.3, but I think I made a pretty darn good use case. We'll see, I guess...
+
+### Monday, January 20, 2019
+
+**Lecture 3.4 - Evaluating Requirements**
+
+Today, I watched lecture 3.4, which went over the topic of evaluating requirements. There are two basic components of evaluating requirements: validation & verification. Validation ensures that the right system was built and verification ensures that the system was built correctly. There are many tiny, iterative steps to the evaluation process. Some of the more popular and tested techniques include paper prototyping, low-fidelity prototyping, high-fidelity prototyping, stakeholder review, formal analysis, and manual analysis. While it might not be feasible to complete all these different types of evaluation, the more you are able to do will likely lead to a more refined outcome. 
+
+
 2.1  What options do you see for coordinating activities among hundreds of people?
 
 2.2  How do you record and distribute decisions made across the organization?  
