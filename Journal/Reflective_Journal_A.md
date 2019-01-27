@@ -127,9 +127,11 @@ Today, I watched lecture 3.4, which went over the topic of evaluating requiremen
 I've missed more than a couple of journal entries over the past week because I've been interviewing for a few full-time positions. I feel like my interviews went pretty well, so hopefully I get one of these jobs. I am a little bummed that I missed making contributions over the last few days, but I really happy I had a good start on them at the beginning of the term and a little cushion to start with. I'm going to have to turn in this journal in a few days, so I'll try to make the last couple of entries good. 
 
 ### Sunday, January 27, 2019
+So, I have to turn this journal in tomorrow. I didn't do much towards this class today because I'm currently traveling around Japan. I have the next lectures downloaded so I plan on watching those over the next few days, which will give me more to talk about in Reflective Journal B.
+
 2.1  What options do you see for coordinating activities among hundreds of people?
+* I think this is a pain point for most large companies. The solutions being used are usually Prjoct Management software, such as Trello, Asana, Jira, and the like. I think these kinds of software platforms help a lot in coordinating many tasks across large teams and are pretty intuitive to use as well. 
 
 2.2  How do you record and distribute decisions made across the organization?  
+* I think that most communication about decisions can be made across organizations using chat tools such as Slack or Discord. It takes a little bit of extra work from the teams to organize all the information on those platforms, but once it is set up, it is really nice to have all the information you need on the chat service you are using at your company.
 
-### Monday, January 28, 2019
-2.3 You know you're good.  Still, why might you still need to prepare marketing documents to generate interest in your work?  
