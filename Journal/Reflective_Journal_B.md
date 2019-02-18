@@ -8,10 +8,33 @@ Alright, so I've really been lagging behind on writing in this journal this time
 
 ## Monday, February 11, 2019
 * **5.1  What are the advantages to having documents for the requirements and design?**
+As always the advantage to having documents for requirements and design is the ease for others to read and understand why certain requirements and design decisions were made. Without this documentation projects can be a black box and very hard to figure out for any collaborators or mentors that are trying to improve the project. 
 
-## Tuesday, February 11, 2019
+On the other hand, documentation also helps designers and developers find any holes in their design. I find that when I have to explain things out in documentation I find out that I missed something in a project. 
+
+## Tuesday, February 12, 2019
 * **5.2  What are characteristics of a development project (i.e. size, complexity) that would justify creating these documents, in advance of coding?**
 
-## Wednesday, February 11, 2019
-* **5.3  We will be moving on to agile methods, where documentation is de-emphasized.  What are circumstances where this might be acceptable?**  
+I think the larger the project is the more effort that needs to go into the documentation of the project before coding anything. This will save the developers from making many mistakes, which will be sussed out in writing the documentation in advance. If you're creating a small enough project then it doesn't really matter as much. Problems can be solved rather quickly and anyone else can read through the code and understand it. However, when you have some monolithic project on the horizon, it is much easier for everyone to break down the large project into smaller chucks and tackle the smaller bite-sized issues that way. 
 
+## Wednesday, February 13, 2019
+* **5.3  We will be moving on to agile methods, where documentation is de-emphasized.  What are circumstances where this might be acceptable?**  
+As mentioned in my last post I believe that agile methods are better suited for smaller projects or prjects with incremental design. The agile method is suited for this because it emphasizes the need for steady, incremental improvements to a project vs. the iterative approach. 
+
+
+## Thursday, February 14, 2019
+* Lecture 5.1 Object-oriented Design Overview
+
+I just watched lecture 5.1 on Object-oriented design. I really enjoyed the lecture and it was a great refresher on OO design, which most classes have not touched since the intro classes. I think the principles and rules that come along with good implementation of OO classes are easy to forget. We often write code that is sub-par when it comes to maintainability and in the end it hurts the project as we are more likely to not want to go back and work on the project.
+
+## Friday, February 15, 2019
+## Saturday, February 16, 2019
+## Sunday, February 17, 2019
+## Monday, February 18, 2019
+## Thursday, February 19, 2019
+
+**6.1  Regardless of the method, why are requirements and design documents essential?**
+
+**6.2  What are characteristics of a development project (i.e. size, complexity) that would justify using agile methods?**
+
+**6.3  True object-oriented programming applies discipline to the development process.  How can this create more reliable or trustworthy software?**
