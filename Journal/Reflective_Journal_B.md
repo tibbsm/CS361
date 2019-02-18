@@ -36,6 +36,8 @@ Today, I watched lecture 5.2, which covered around half of the design patterns t
 ## Saturday, February 16, 2019
 * Lecture 5.3 Design Patterns II
 
+I watched the second part of the design patterns lectures today. It was a great follow up the last lecture and finished off introducing the design patterns that we will be following in the course. Of these patterns I had only seen the factory design pattern before, so there was a lot that was new for me. I think just like the last lecture I'll have to do a lot of my own research to find out more about these patterns. And I think implementing some of my own will really help out in understanding them. 
+
 **6.1  Regardless of the method, why are requirements and design documents essential?**
 
 Regardless of methods, I think that requirements and design documents are essential because they give a clear, actionable direction for the project. Without these types of documentation, a project can waver all over the place and not really get anywhere and even end up doing the same work over again becuase of bad planning. I belive that documentation like this is absolutely the bare minimum for any serious project. Moreover, they do not take too much time especially when you consider how much time and effort you save with some simple plans.
