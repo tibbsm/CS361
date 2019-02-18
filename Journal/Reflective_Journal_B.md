@@ -31,17 +31,24 @@ I just watched lecture 5.1 on Object-oriented design. I really enjoyed the lectu
 ## Friday, February 15, 2019
 * Lecture 5.2 Design Patterns I
 
+Today, I watched lecture 5.2, which covered around half of the design patterns that we will cover in this course. It was a really great lecture and I was happy to see a lot of patterns that I have been seeing used at my internships. The first time I heard about the design patterns at work, I was completely lost and had to scrounge the internet to make sense of the things that my co-workers were talking about. With time I learned more about a few of the design patterns such as adapters, observables, and builders. I'm happy to learn about the other ones as well since I'm sure that they will come up sooner or later at work. The lecture did a great job giving the basic overview of what the design patterns are and what they are used for. I will have to do a little research on my own to find out more details on the patterns. 
+
 ## Saturday, February 16, 2019
 * Lecture 5.3 Design Patterns II
 
 **6.1  Regardless of the method, why are requirements and design documents essential?**
 
+Regardless of methods, I think that requirements and design documents are essential because they give a clear, actionable direction for the project. Without these types of documentation, a project can waver all over the place and not really get anywhere and even end up doing the same work over again becuase of bad planning. I belive that documentation like this is absolutely the bare minimum for any serious project. Moreover, they do not take too much time especially when you consider how much time and effort you save with some simple plans.
+
 ## Sunday, February 17, 2019
 **6.2  What are characteristics of a development project (i.e. size, complexity) that would justify using agile methods?**
+
+I think I went over this in one of my earlier entries, but just to reiterate I think that agile methods are better suited for smaller, less complex projects. The benefit of using agile methods is the speed in which you can accomplish project goals. However, for larger, more complex projects it doesn't matter how fast you can implement things if you have a poorly designed plan for the project. In the case of larger projects, I believe it is better to break up the project into smaller sub-projects and then using the agile method on those smaller projects. 
 
 ## Monday, February 18, 2019
 **6.3  True object-oriented programming applies discipline to the development process.  How can this create more reliable or trustworthy software?**
 
+True object-oriented programming come with many necessary and helpful rules when it coming to implementation. By its very nature OO programming has the developers make strict rules about how they are going to structure their software. While flexibility in code often makes it easier to code projects, it also ends up making messier and harder to maintain code in the long run. 
 
 
 
