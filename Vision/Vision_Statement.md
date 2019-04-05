@@ -2,6 +2,40 @@ Marc Tibbs (tibbsm)
 CS 361 - Winter 2019
 Draft Vision Statement
 
+(-0.5): Your vision statement explains in detail why the problem is important and how users could benefit from using the platform. However, it lacks the description of the features: for example, how users interact with the system, how exactly they can collaborate, etc.
+
+20 points: does the vision statement outline a real world problem and affected users
+* Is it a “real” problem?
+* Are users likely, willing, or able to use a technological solution?
+* Is the necessary tech available or likely to be available in the proposed timeline?
+* Can you use a diagram to show how your idea plugs into existing resources?
+
+40 points: does the vision statement outline the parts of a system (at least three) that might contribute to a solution for the user?
+* This is a draft description of a possible system architecture
+* Explain how the parts, or the system will address the problem
+* Do you have a diagram (or more) to help display your idea?
+* Briefly describe how technology would be used/integrated
+* Provide an estimate of anticipated effort
+* Will your solution capture the data to determine success?
+* Are the development skills common, specialized, or ultra-rare?
+* It needs to be larger than a student project
+
+20 points: does the vision statement include all of the required sections?
+* Not just that you have that section in your document
+* But, is there substantive content in each section?
+* Success is important! How will you determine a successful application?      
+* Does the vision statement contain 2000 words or more? [The page count is here because students often ask how many pages?       
+
+10 points: does the vision statement provide a reference for all quotes, images, and other materials borrowed from elsewhere?
+* This includes ideas per normal copyright law
+* Are they properly and consistently formatted?      
+
+10 points: does the draft clearly indicate the direction of the statement
+* is it clearly stated?
+* Is it sufficient in scope?
+* Is it a real problem?
+* Is the proposed solution reasonable?
+
 
 # Abstract
 OpenCourse is a platform which creates an environment for students to develop open source projects with their fellow students. OpenCourse offers students access contribute to projects started by past students of courses, collaborate with current students on new projects based on what they are learning in a class, and the ability to pass on their projects to future students who can then add further improvements to the open source project.
@@ -19,6 +53,11 @@ Often there is not enough time during a course to polish and fine tune a project
 # Description of Solution
 
 My proposed solution is a online service that will connect students who are taking courses with one another and allow them to work on projects together. Using this platform students can contribute to open source projects with their classmates and make lasting relationships with other developers. This collaboration will help solidify what they are learning in their classes, create new relationships with their peers, and allow past students to help new students, and give current students the incentive to put the knowledge they are learning to immediate use and can pass down to future generations of students.
+
+OpenCourse would be a web application that would be easily accessible to students on their desktop computers and mobile devices. Having the system available on mobile devices would allow students to show other students or potentially perspective clients the projects that they have been working on. 
+
+The system would be composed of a dashboard where students could input what classes they are currently taking, plan on taking in the future, and the classes have already completed. By this simple action the student would be connected to a large network of students who have gone through learning similar materials as they have. They would also have access to see how other students have used what they have learned in their classes into real world projects. They would also then have access to contributing to those projects or in the very least be inspired by them and spur them towards making their own projects. 
+
 ## List of OS Student Projects
 
 ## Class Notes

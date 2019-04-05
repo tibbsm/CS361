@@ -8,7 +8,7 @@ I'm a little bit behind on working on my expanded vision statement, so I'll be w
 ## Wednesday, February 19, 2019
 First day of my new internship today. I'm realizing now that I have a lot less time to get these assignments done. I took this for granted over the past month, but I've gotten pretty good grades thus far and am not behind on any of the lessons so far, so I feel good at this point. I plan on watching the next lecture after I get home from work tonight. Hopefully I won't be too tired to watch it when I get back.
 
-
+I didn't end up having time or energy to watch one of the lectures, so instead I added to my vision statement. The expanded vision statement is the next thing due in class, so this is probably a better allocation of my focus anyways.
 
 * **7.1  With all these issues would it be better to try to adapt document-heavy methods rather than continue to fiddle with agile methods?**
 
